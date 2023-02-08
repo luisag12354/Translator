@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Language Translator",
+    "version": "1.0",
+    "browser_action": {
+      "default_popup": "extension.html"
+    },
+    "permissions": [
+      "https://translation.googleapis.com/*"
+    ]
+  }
