@@ -12,7 +12,6 @@ A Google Chrome extension that allows users to translate text on any website int
 
 - JavaScript
 - HTML
-- CSS
 - Google Cloud Translation API
 
 ## Usage
@@ -20,14 +19,14 @@ A Google Chrome extension that allows users to translate text on any website int
 1. Install the extension from the Chrome Web Store
 2. Navigate to any website in Google Chrome
 3. Click the extension icon in the top right corner of the browser
-4. Select the language you want to translate the page into
-5. The page will be automatically translated
+4. Copy and paste the words onto othe extension
+5. Then it'll print out the words
 
 ## Benefits
 
 - Improves accessibility for non-native speakers
 - Helps overcome language barriers on the web
-- Enhances the user experience by allowing them to quickly translate content on a website
+- Enhances the user experience by allowing them to quickly translate content on a website, instead of going onto google translate
 
 ## Future Development
 
